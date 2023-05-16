@@ -4,7 +4,7 @@
 
 1. 先用一键脚本启动docker-compose
 
-![img](.\Figure1.png)
+![img](./Figure1.png)
 
 2. 启动过程中会让你输bot的QQ号密码，管理员QQ号等，还有api-key，输入即可，运行完之后会生成一个`./chatgpt-qq/`文件夹
 
